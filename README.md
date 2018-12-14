@@ -312,3 +312,10 @@ review the [guidelines for contributing](CONTRIBUTING.md).
 ## License
 
 Copay is released under the MIT License.  Please refer to the [LICENSE](https://github.com/particl/copay/blob/master/LICENSE) file that accompanies this project for more information including complete terms and conditions.
+
+### Support:
+
+If you want the good work to continue please support us on
+
+* [PAYPAL](https://www.paypal.me/ishandutta2007)
+* [BITCOIN ADDRESS: 3LZazKXG18Hxa3LLNAeKYZNtLzCxpv1LyD](https://www.coinbase.com/join/5a8e4a045b02c403bc3a9c0c)
